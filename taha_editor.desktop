@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Taha Editor
+Version=1.0
+Exec=python3 /home/taha/lessons/projects/editor/editor.py
+Icon=/home/taha/Pictures/pen.png
+Terminal=false
+Type=Application
